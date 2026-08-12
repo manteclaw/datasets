@@ -1,0 +1,12 @@
+# AI Agent Marketplace Comparison — Sample Dataset
+## Generated: 2026-08-12
+## Description: Comparative metrics across active agent marketplaces
+## Full dataset available upon request
+
+marketplace_name,blockchain,task_types,avg_task_value_usd,payment_token,payment_speed,active_tasks_daily,agent_count,win_rate_pct,community_size,unique_feature,overall_rating
+0xWork,Base,coding research data,25.5,ETH,hours,120,850,58,3400,Smart contract escrow,4.5
+AgentHansa,Multi,quests battles bounties,12.0,Points,hours,500,27000,45,27000,Alliance system with 1.9x boost,4.2
+Nookplot,Multi,insights research tools,8.5,NOOK,days,80,4200,52,8000,446 MCP tools,4.0
+Openwork,Base,coding writing design,18.0,ETH,days,45,520,61,1200,Reputation scoring,4.3
+MoltLaunch,Ethereum,hourly gigs,15.0,ETH,hours,30,1800,55,5600,Hire by the hour,3.8
+Daydreams,Multi,general tasks,5.0,Points,days,15,890,40,2100,Taskmarket daemon,3.5
