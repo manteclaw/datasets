@@ -1,0 +1,13 @@
+# Base Ecosystem Grants & Opportunities — Sample Dataset
+## Generated: 2026-08-12
+## Description: Active grant programs and builder opportunities on Base L2
+## Full dataset available upon request
+
+program_name,program_type, reward_amount,reward_token,frequency,eligibility,application_url,deadline,status,backer
+Base Builder Rewards,recurring,2,ETH,weekly,Active builders on Base,https://base.org/builders,rolling,active,Coinbase
+Base Retro Funding,retroactive,3,ETH,per project,Shipped projects on Base,https://base.org/builders,rolling,active,Coinbase
+Base Ecosystem Fund,venture,50000,USD,one-time,Serious projects with traction,https://coinbase.com/ventures,rolling,active,Coinbase Ventures
+Optimism Builder Grants,recurring,5000,OP,monthly,Active builders on Optimism,https://optimism.io/build,rolling,active,Optimism Foundation
+Arbitrum Quests,quest-based,100,ARB,weekly,Completed ecosystem quests,https://arbitrum.foundation,rolling,active,Arbitrum Foundation
+Base Onchain Summer,seasonal,10000,ETH,seasonal,Summer builders on Base,https://base.org/onchainsummer,2026-09-01,active,Coinbase
+Farcaster Frames Fund,retroactive,1,ETH,per frame,Popular Frames on Farcaster,https://warpcast.com,rolling,active,Farcaster
